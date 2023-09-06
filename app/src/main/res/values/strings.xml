@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Set4Revision</string>
+
+    <string name="appTitle">Road Tax Checker</string>
+
+    <string name="carRegNoLabel">Car registration number: </string>
+    <string name="carRegNoTxt">SAB9655H</string>
+
+    <string name="engineLabel">Engine capacity (in cc): </string>
+    <string name="engineTxt">1000</string>
+
+    <string name="stateLabel">Choose state: </string>
+    <string-array name="stateSelection">
+        <item>Peninsular Malaysia</item>
+        <item>Sabah and Sarawak</item>
+    </string-array>
+    <string name="stateChosenLabel">Chosen state: </string>
+
+    <string name="roadTaxLabel">Road Tax: </string>
+
+    <string name="calculateRoadTaxBtn">Calculate road tax</string>
+    <string name="contactUsBtn">Contact us</string>
+
+</resources>
